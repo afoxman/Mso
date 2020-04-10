@@ -1,0 +1,8 @@
+{
+  "type": "minor",
+  "comment": "Make all target_compile_definitions public so consuming projects build the same way (e.g. get headers that pre-process the same way as when the library was built).",
+  "packageName": "@microsoft/mso",
+  "email": "adam@thefoxmans.net",
+  "dependentChangeType": "patch",
+  "date": "2020-04-10T06:28:44.325Z"
+}
